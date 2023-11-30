@@ -27,7 +27,7 @@ The protagonist of the series, Cha Hyun Soo is portrayed as a withdrawn and trou
 
 ## Visuals
 
-![Sweet Home Poster](link_to_poster_image.jpg)
+![Sweet Home Poster]([[link_to_poster_image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeekpopnews.com.br%2Freview-sweet-home%2F&psig=AOvVaw3xzFcQspIUDRF8wiATS6Xe&ust=1701444631012000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjD5qiF7IIDFQAAAAAdAAAAABAJ)](https://i0.wp.com/geekpopnews.com.br/wp-content/uploads/2023/03/sweet-home-1.jpg?resize=1280%2C640&ssl=1))
 
 ## Critical Acclaim
 
